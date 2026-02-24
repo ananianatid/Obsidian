@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.hasTag("quote")
+    - related == this.file
+views:
+  - type: table
+    name: Table
