@@ -31,6 +31,11 @@ views:
     order:
       - file.name
       - created
+    sort:
+      - property: created
+        direction: ASC
+    columnSize:
+      file.name: 294
 
 ```
 

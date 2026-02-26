@@ -3,7 +3,7 @@ title: 2026-02-25 0355
 tags:
   - note
   - devoir
-  - UE
+  - UE-note
 created: 2026-02-25
 topics:
   - devoir
@@ -76,6 +76,7 @@ C'est l'ensemble des règles qui régissent l'activité de l'informatique. C'est
 - DACP :  toute information relative a une personne physique identifié ou identifiable directement ou indirectement par reference a un numéro d'identification propre a son identité physique , physiologique, culturel,genetique,social et economique .
 - Données sensibles : ce sont les DACP relatives a l'origine raciale ou ethniques, aux opinions politiques,syndicale, a la vie sexuelle, a la santé, aux mesures d'ordre sociale, aux poursuites et aux sanctions d'ordre pénales ou administratives.
 - Destinataire du traitement des données a caractere personel :  c'est toute personne habileté a arecevoir communication des données  autre que la personne concernée, le responsable du traitement , le sous-traitant et les personnes qui sont chargées de traiter les données
+--- 
 ## 16. Citez les principes de base du traitement des DACP
 - le principe de consentement et de légitimité
 - licéité et loyauté
